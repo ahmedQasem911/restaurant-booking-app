@@ -1,7 +1,7 @@
 const recipes = [
   {
     id: 1,
-    title: "Greek salad",
+    title: "Greek Salad",
     price: 12.99,
     image: "https://i.ibb.co/68c9bLv/greek-salad.jpg",
     description:
